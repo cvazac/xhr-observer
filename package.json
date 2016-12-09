@@ -1,0 +1,26 @@
+{
+  "name": "xhr-observer",
+  "version": "0.0.1",
+  "description": "instrument XMLHttpRequest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cvazac/xhr-observer.git"
+  },
+  "keywords": [
+    "XMLHttpRequest",
+    "xhr",
+    "instrumentation",
+    "ajax",
+    "request"
+  ],
+  "author": "Charles Vazac <cvazac@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cvazac/xhr-observer/issues"
+  },
+  "homepage": "https://github.com/cvazac/xhr-observer#readme"
+}
